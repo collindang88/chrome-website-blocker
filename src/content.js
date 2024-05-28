@@ -1,5 +1,3 @@
-console.log("in content.js");
-
 const emojis = [
   "¯\\_(ツ)_/¯",
   "(ㆆ _ ㆆ)",
