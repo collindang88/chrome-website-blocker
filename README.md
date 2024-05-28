@@ -13,3 +13,22 @@ How to block websites:
 What the website turns into (ex. blocking reddit.com):
 
 ![emojis GIF](./gifs/ascii_emojis.gif)
+
+## Running Locally
+
+Clone the repo:
+```
+git clone git@github.com:collindang88/chrome-website-blocker.git
+```
+
+Install node modules:
+```
+npm install
+```
+
+Build project:
+```
+npm run build
+```
+
+Then load the `dist` folder into `chrome://extensions/`.
